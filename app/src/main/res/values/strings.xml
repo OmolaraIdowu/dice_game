@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="roll">ROLL</string>
+    <string name="emoji">You Lose &#128522;</string>
+</resources>
